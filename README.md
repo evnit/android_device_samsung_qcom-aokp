@@ -1,4 +1,4 @@
-android_device_samsung_qcom-aokp
+android_device_samsung_qcom-aokp 
 ================================
 
 qcom AOKP
